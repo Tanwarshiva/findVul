@@ -6,13 +6,13 @@ import textwrap
 
 # Simple vulnerability scanner based on OWASP Top 10 2021
 
-# Improved minimal ASCII art for OWASP Checker
+# Improved minimal ASCII art for FindVul
 ASCII_ART = """
          _.-=-._ 
        o~`  '  `~o
        \\    OWASP  /
         `..____..-' 
-   Designed by Ali Baykara
+   Designed by Shiva Team
 """
 
 # Risk ratings
